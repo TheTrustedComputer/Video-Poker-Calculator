@@ -11,7 +11,7 @@ Video poker is a digitalized five-card draw poker game. Gameplay initiates after
 It simulates a typical single-hand video poker machine in the comfort of your place of residence. Its current features include:
 
 * Many popular games are supported, including Jacks or Better, Bonus Poker, Double Double Bonus, and wild card games such as Joker Poker and Deuces Wild.
-* Training mode. It provides feedback for any incorrectly played hands according to perfect play. No feedback for best play otherwise.
+* Training mode. It provides feedback for any incorrectly played hands according to perfect play. No feedback if it is the best play.
 * The analysis of any hand is available as long it is not in training mode. It will reveal relevant information about what to hold and enter, the expected return, the win percentage, and possible hand combinations on the redraw.
 * Modify the bet and the game's pay table on the fly. By default, it uses the highest-paying one. You can also save that pay table to a file for later use instead of having to do it every time.
 * Have itself play hands automatically. Hit Control-C to return to manual play.
