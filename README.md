@@ -7,8 +7,6 @@ This program contains elements of gambling, but everything is virtual. You may o
 ## What is Video Poker?
 Video poker is a digitalized five-card draw poker game. Gameplay initiates after placing a bet and pressing the deal button. The machine then displays five cards to the player, who may hold or discard up to every card as desired. They can press the draw button to finalize their hand, and the machine reveals the remaining cards not thrown away. If that hand is a paying hand, it will pay the player of that quantity on the pay table, in which the game concludes. Many variations of video poker exist, with the most common being multi-hand.
 
-There is a site called VideoPoker.com, which enables users to play and practice video poker that is faithful to the ones encountered in casinos. Those wanting to attempt can create an account on this site for free. The only thing they will spend on is a member's subscription. Moreover, numerous member benefits deliver a healthy experience for all users alike. It includes training to become a perfect player to minimize the house edge!
-
 ## About This Program
 It simulates a typical single-hand video poker machine in the comfort of your place of residence. Its current features include:
 
