@@ -20,7 +20,7 @@ It simulates a typical single-hand video poker machine in the comfort of your pl
 **NOTE**: There is no point in supporting multi-hand, as the strategy does not change from single-hand apart from volatility.
 
 ## Building Instructions
-It is not difficult to build. The tools required for building are just any C++ compiler. To compile this program, open a terminal or console window of your choice and copy-paste the command below.
+It is not difficult to build. The tools required for building are just any C++ compiler; I recommend GCC. To compile this program, open a terminal or console window of your choice and copy-paste the command below.
 ```
 g++ -Ofast -s -march=native main.cpp -o VPCalculator
 ```
