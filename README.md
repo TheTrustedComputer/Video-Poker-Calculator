@@ -2,7 +2,7 @@
 It is an offline, command-line video poker hand calculator and trainer program. Please keep in mind this is a hobby project. I have no plans for a GUI application and little free time for constant maintenance. If you want a GUI, consider forking it and writing one.
 
 ## Warnings
-This program contains elements of gambling, but everything is virtual. You may only use it if you are of the legal age, and your jurisdiction permits them. 
+This program contains elements of gambling, but all currency and credits are virtual. 
 
 ## What is Video Poker?
 Video poker is a digitalized five-card draw poker game. Gameplay initiates after placing a bet and pressing the deal button. The machine then displays five cards to the player, who may hold or discard up to every card as desired. They can press the draw button to finalize their hand, and the machine reveals the remaining cards not thrown away. If that hand is a paying hand, it will pay the player of that quantity on the pay table, in which the game concludes. Many variations of video poker exist, with the most common being multi-hand.
